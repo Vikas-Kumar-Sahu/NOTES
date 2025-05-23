@@ -1,0 +1,17 @@
+break is a keyword which is used inside a loop or inside switch case to turminate the block executin. when jvm read break keywords then imidiatly control of jvm comes out of the block and block will get turminated.
+int i = 0;
+while(true){
+    if(i>25)
+        break;
+    sop(i);
+    i++;
+}
+
+continue is a keyword use which is used to skip the execution from loop.when jvm read continue keyword then it imidiatly goes for the next execution of the loop.
+int i = 0;
+while(true){
+    if(i>25)
+        continue;
+    sop(i);
+    i++;
+}
