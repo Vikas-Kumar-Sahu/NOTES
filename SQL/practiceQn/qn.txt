@@ -1,0 +1,3 @@
+waqtd ename and dname of 2nd last record in emp table
+waqtd ename and dname of employees hired after miller in smith designation
+waqtd details of employee hired on wednesday,thurday on friday
